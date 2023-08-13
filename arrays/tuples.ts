@@ -70,3 +70,5 @@ function firstCharAndSizeConst(input: string) {
 }
 
 const [firstCharConst, sizeConst] = firstCharAndSizeConst('Gudlit');
+
+export default logPair;
